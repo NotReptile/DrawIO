@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T10:43:22.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vEl2FK3wzGB1aqEBc2SL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T10:45:08.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WpISBCG9hfadZ_Axeut5" version="20.8.23" type="github">
   <diagram name="Страница 1" id="e0riKcz3EJ9HqaCx23IU">
     <mxGraphModel dx="1509" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
             <mxPoint x="280" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-jDBl9v7VWz0XHDINQXF-39" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jDBl9v7VWz0XHDINQXF-8" target="-jDBl9v7VWz0XHDINQXF-10">
+        <mxCell id="-jDBl9v7VWz0XHDINQXF-39" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-jDBl9v7VWz0XHDINQXF-10" target="-jDBl9v7VWz0XHDINQXF-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="620" as="sourcePoint" />
-            <mxPoint x="620" y="620" as="targetPoint" />
+            <mxPoint x="700" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
