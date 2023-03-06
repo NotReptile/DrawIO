@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:35:41.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x2vUSC8G8T6AmOLFwWra" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T19:09:51.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t1DrFhrC7QxPwb8nu1uG" version="21.0.2" type="github">
   <diagram name="Страница 1" id="kRCKT5H8Iu0QMhoPxr9F">
     <mxGraphModel dx="1430" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-1" value="Руководитель&lt;br&gt;кукольного&lt;br&gt;театра" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="60" height="120" as="geometry" />
+          <mxGeometry x="140" y="280" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-2" value="Актёры-кукольники" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="60" height="120" as="geometry" />
+          <mxGeometry x="700" y="320" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-3" value="Расписание&lt;br&gt;спектаклей" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-4" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;" edge="1" parent="1" source="oYJoJiECC2sfzW1jEDX5-3" target="oYJoJiECC2sfzW1jEDX5-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-5" value="Оплата&lt;br&gt;работы" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="70" height="80" as="geometry" />
+          <mxGeometry x="540" y="360" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-8" value="Интерфейс&lt;br&gt;общения&lt;br&gt;с актерами" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="100" height="80" as="geometry" />
+          <mxGeometry x="290" y="270" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-11" value="" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1.015;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYJoJiECC2sfzW1jEDX5-5" target="oYJoJiECC2sfzW1jEDX5-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -47,13 +47,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-15" value="Сайт&lt;br&gt;Кукольного&lt;br&gt;театра" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="100" height="80" as="geometry" />
+          <mxGeometry x="250" y="150" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYJoJiECC2sfzW1jEDX5-16" target="oYJoJiECC2sfzW1jEDX5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-16" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="60" height="120" as="geometry" />
+          <mxGeometry x="40" y="130" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.004;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.01;exitY=0.478;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYJoJiECC2sfzW1jEDX5-15" target="oYJoJiECC2sfzW1jEDX5-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-19" value="Договор" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oYJoJiECC2sfzW1jEDX5-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.578;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYJoJiECC2sfzW1jEDX5-19" target="oYJoJiECC2sfzW1jEDX5-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
